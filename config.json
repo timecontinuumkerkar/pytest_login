@@ -1,0 +1,10 @@
+{
+  "username": "inputUsername",
+  "password": "inputPassword",
+  "firstcheckbox": "chkboxOne",
+  "secondcheckbox": "chkboxTwo",
+  "signIn": "signInBtn",
+  "logout": "logout-btn",
+  "name": "karan",
+  "pass": "rahulshettyacademy"
+}
