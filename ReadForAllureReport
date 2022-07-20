@@ -1,5 +1,5 @@
 To run allure report you would need allure dependency added in your virtual env.
-1. First method: Run the command --> pipenv allure-pytest to install
+1. First method: Run the command --> pipenv allure-pytest
 2. Second Method: Go to Python Interpretor and add dependency
 Then you have to create an empty folder to save the screenshots that will be captured.
 Once that is done run the below commands.
