@@ -6,5 +6,6 @@
   "signIn": "signInBtn",
   "logout": "logout-btn",
   "name": "karan",
-  "pass": "rahulshettyacademy"
+  "pass": "rahulshettyacademy",
+  "screenshotsfolder": "D:\\automationProjects\\pytest_login\\screenshots\\LoginPage.png"
 }

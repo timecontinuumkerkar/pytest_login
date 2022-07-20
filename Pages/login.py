@@ -31,3 +31,5 @@ class LoginPagePractice:
         assert self.browser.find_element(*self.LogOutBtn).is_displayed()
         self.browser.find_element(*self.LogOutBtn).click()
 
+    def screenshots(self):
+        self.browser.save_screenshot("D:\\automationProjects\\pytest_login\\screenshots\\LoginPage.png")
